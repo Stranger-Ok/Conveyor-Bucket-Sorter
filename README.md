@@ -30,5 +30,5 @@ Strings should sort first; if they are equal, you should sort by number.
 	17 . I love rock and roll
 
 ## In result you should have:
-1) Application that randomly generates unsorted file.
-2) Application that would read unsorted file and sort it as described.
+  1) Application that randomly generates unsorted file.
+  2) Application that would read unsorted file and sort it as described.
