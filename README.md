@@ -1,7 +1,7 @@
 # Conveyor-Bucket-Sorter
 
 There is the huge file, with size approximately from 1 to 100 gb. 
-Structure of file is '[number] . [string]". Example:
+Structure of file is "[number] . [string]". Example:
 
 	1001 . London is the capital
 	854 . My name is Viktor
@@ -30,5 +30,6 @@ Strings should sort first; if they are equal, you should sort by number.
 	17 . I love rock and roll
 
 ## In result you should have:
-  1) Application that randomly generates unsorted file.
-  2) Application that would read unsorted file and sort it as described.
+
+	1) Application that randomly generates unsorted file.
+	2) Application that would read unsorted file and sort it as described.
